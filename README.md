@@ -1,4 +1,4 @@
-Objective:
+1. Objective:
 
 Our project aimed to detect phishing websites and alert users, providing an additional layer of security to minimize risks like data breaches and financial loss.
 
