@@ -67,38 +67,60 @@ Error Metrics Value:
 <img width="616" height="296" alt="image" src="https://github.com/user-attachments/assets/645f1e4f-5974-4394-b116-70baaa70725a" />
 
 Ensemble Predictions (GRU model)
-<img width="563" height="70" alt="image" src="https://github.com/user-attachments/assets/05d37521-7568-430a-a1ea-f0d115a46f2b" />
+
+<img width="928" height="564" alt="image" src="https://github.com/user-attachments/assets/105e0f76-87a2-4861-b815-4760a8fd28f6" />
+
 
 Transformer Model
-<img width="316" height="70" alt="image" src="https://github.com/user-attachments/assets/e76659c0-6e63-4400-8e98-ba44d8e5f29b" />
+
+<img width="1030" height="586" alt="image" src="https://github.com/user-attachments/assets/44d8f4b7-a225-44d4-90dd-fa2c0aaf262c" />
+
 
 Error metric value after Transformer model
-<img width="664" height="70" alt="image" src="https://github.com/user-attachments/assets/87ab6fed-3b93-4a79-85b0-e790fcfee09b" />
+<img width="645" height="316" alt="image" src="https://github.com/user-attachments/assets/5eb68b92-f0ea-4bf2-b5d4-0a60c42ce393" />
+
 
 Error metrics - MAE
-<img width="332" height="70" alt="image" src="https://github.com/user-attachments/assets/e26170f1-61d8-402b-a60c-f923652842ed" />
+
+<img width="944" height="544" alt="image" src="https://github.com/user-attachments/assets/09e8767b-ae89-4863-894c-9515a42a95fd" />
+
 
 Error metrics –MSE
-<img width="330" height="70" alt="image" src="https://github.com/user-attachments/assets/6ef58ab7-cfa8-481a-8237-82ab17770d43" />
+
+<img width="954" height="552" alt="image" src="https://github.com/user-attachments/assets/ba88287d-87c2-4a72-bb84-4594644bb0cf" />
+
 
 Error metrics-R2
-<img width="282" height="70" alt="image" src="https://github.com/user-attachments/assets/af0360af-9d0f-45ce-9933-a28e9fc975f6" />
+
+<img width="986" height="552" alt="image" src="https://github.com/user-attachments/assets/ccb5ee37-74ea-49e7-aabe-81b0a328531a" />
+
 
 
 TimeGPT
-<img width="180" height="70" alt="image" src="https://github.com/user-attachments/assets/bd08eab9-0082-4bfb-a430-12df3e37535f" />
+
+<img width="1453" height="533" alt="image" src="https://github.com/user-attachments/assets/61a69816-996c-4a65-b2e5-867b74287546" />
+
 
 Next Year
-<img width="235" height="70" alt="image" src="https://github.com/user-attachments/assets/0a939f86-e057-4f6b-8186-82c26c23f8c9" />
+
+<img width="1410" height="246" alt="image" src="https://github.com/user-attachments/assets/090c16a7-ffe4-4fa6-a81f-790db72a80f5" />
+
 
 Next Month
-<img width="262" height="70" alt="image" src="https://github.com/user-attachments/assets/be469d8e-6fd1-4323-827d-301841675482" />
+
+<img width="1410" height="258" alt="image" src="https://github.com/user-attachments/assets/908dc1e5-6666-4758-bd9c-7658ed5eefc1" />
+
 
 Next Week
-<img width="256" height="70" alt="image" src="https://github.com/user-attachments/assets/d556df31-18ae-476f-91e1-feaafcba462a" />
+
+<img width="1397" height="241" alt="image" src="https://github.com/user-attachments/assets/ef0ee6e3-12c2-4b79-9cad-8331adc736c1" />
+
 
 Next Day
-<img width="229" height="70" alt="image" src="https://github.com/user-attachments/assets/9d142b16-b713-4a6f-9f55-962dcd7e7b88" />
+
+<img width="1372" height="259" alt="image" src="https://github.com/user-attachments/assets/8531485e-2059-4c4c-9804-09bf7c569b13" />
+
+
 
 
 
