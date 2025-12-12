@@ -2,11 +2,7 @@
 
 Our project aimed to detect phishing websites and alert users, providing an additional layer of security to minimize risks like data breaches and financial loss.
 
-2. Design:
-   <img width="784" height="575" alt="image" src="https://github.com/user-attachments/assets/6721b2bc-928e-4a3a-abc8-e9aa83f2f6a1" />
-
-
-3. Technologies Used:
+2. Technologies Used:
 
 Python for scripting and data analysis.
 
@@ -14,7 +10,7 @@ AI algorithms (e.g., supervised learning models like decision trees, or neural n
 
 
 
-4. Methodology:
+3. Methodology:
 
 Data Collection: Gathered a dataset of phishing and legitimate websites (e.g., features like URL structure, SSL certificate usage, and content analysis).
 
@@ -24,7 +20,7 @@ Deployment: Integrated the model into an AI-powered browser extension for real-t
 
 
 
-5. Challenges & Solutions:
+4. Challenges & Solutions:
 
 Challenge: Handling false positives/negatives in predictions.
 Solution: Tuned the model using feature engineering and cross-validation techniques.
@@ -34,9 +30,10 @@ Solution: Optimized the model for real-time performance without excessive resour
 
 
 
-6. Impact:
+5. Impact:
 
 "This project enhances user awareness and cybersecurity, proactively preventing phishing attacks across digital platforms."
+
 
 
 
